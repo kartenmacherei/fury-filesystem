@@ -1,0 +1,24 @@
+{
+	"name": "fury-filesystem",
+	"description": "Wrapper classes for the filesystem",
+	"type": "library",
+	"keywords": ["filesystem", "kartenmacherei"],
+	"homepage": "https://github.com/kartenmacherei/fury-filesystem",
+	"license": "MIT",
+	"autoload": {
+		"classmap": ["src/"]
+	},
+	"require": {
+		"php": "^7.1"
+	},
+	"require-dev": {
+		"phpunit/phpunit": "^6.1",
+		"kartenmacherei/kam-php-coding-standard": "dev-master"
+	},
+	"repositories": {
+		"kartenmacherei/kam-php-coding-standard": {
+			"type": "vcs",
+			"url": "git@bitbucket.org:kartenmacherei/kam-php-coding-standard.git"
+		}
+	}
+}
