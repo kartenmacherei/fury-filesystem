@@ -1,5 +1,5 @@
 {
-	"name": "fury-filesystem",
+	"name": "kartenmacherei/fury-filesystem",
 	"description": "Wrapper classes for the filesystem",
 	"type": "library",
 	"keywords": ["filesystem", "kartenmacherei"],
